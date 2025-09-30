@@ -9,7 +9,7 @@ console.log(clojure, clojureLanguage)
 
 const doc = `(ns foo.bar
   "this is a nice ns"
-  (:require [cloure.string :as str]))
+  (:require [clojure.string :as str]))
 
 ['a
  'b
