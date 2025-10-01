@@ -1,7 +1,7 @@
 {
-  "name": "@nextjournal/lang-clojure",
-  "version": "1.0.0",
-  "description": "Clojure language support for the CodeMirror code editor",
+  "name": "@jurjanpaul/lang-clojure-smart-indent",
+  "version": "1.0.0-smart-indent",
+  "description": "Clojure language support for the CodeMirror code editor with Smart Indent",
   "scripts": {
     "test": "cm-runtests",
     "prepare": "cm-buildhelper src/clojure.ts",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nextjournal/lang-clojure.git"
+    "url": "git+https://github.com/jurjanpaul/lang-clojure-smart-indent.git"
   },
   "bugs": {
-    "url": "https://github.com/nextjournal/lang-clojure/issues"
+    "url": "https://github.com/jurjanpaul/lang-clojure-smart-indent.git/issues"
   },
-  "homepage": "https://github.com/nextjournal/lang-clojure#readme"
+  "homepage": "https://github.com/jurjanpaul/lang-clojure-smart-indent.git#readme"
 }

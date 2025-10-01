@@ -2,6 +2,8 @@
 
 This package implements Clojure language support for the [CodeMirror](https://codemirror.net/) code editor.
 
+!! Now supports Smart Indent.
+
 ## API Reference
 <dl>
 <dt>
