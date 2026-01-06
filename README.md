@@ -3,8 +3,9 @@
 This package implements Clojure language support for the [CodeMirror](https://codemirror.net/) code editor.
 
 !! This fork supports Smart Indent.
-However, I don't want to keep this fork, now that I see a possibility that 'Clojure Smart Indent' may work as a separate extension after all. Still figuring out the details.
-
+Even so, it's a better idea to have this behaviour as a separate CodeMirror 6 extension.
+Fortunately, that is now available: https://github.com/jurjanpaul/codemirror6-clojure-smart-indent
+(So, this fork is no longer necessary.)
 
 ## API Reference
 <dl>
